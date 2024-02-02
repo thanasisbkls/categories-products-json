@@ -1,0 +1,703 @@
+{"code": 1,"message": "Retrieved successfully","items": [
+     {
+      "id": "1",
+      "name": "Purified Drinking Water",
+      "category": "1",
+      "details": [
+        {"detail_name": "volume", "detail_value": "1.5 liters"},
+        {"detail_name": "pack size", "detail_value": "6"}
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Apple Juice",
+      "category": "1",
+      "details": [
+        {"detail_name": "volume", "detail_value": "500ml"},
+        {"detail_name": "pack size", "detail_value": "12"}
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Tuna",
+      "category": "2",
+      "details": [
+        {"detail_name": "brand", "detail_value": "EcoHarvest"},
+        {"detail_name": "weight", "detail_value": "200g"}
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Organic Basmati Rice",
+      "category": "2",
+      "details": [
+        {"detail_name": "weight", "detail_value": "1kg"},
+        {"detail_name": "type", "detail_value": "Organic Basmati"}
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Fluoride-Free Toothpaste",
+      "category": "3",
+      "details": [
+        {"detail_name": "brand", "detail_value": "PureSmile"},
+        {"detail_name": "volume", "detail_value": "150ml"}
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Vegan Coconut Shampoo",
+      "category": "3",
+      "details": [
+        {"detail_name": "brand", "detail_value": "CocoCare"},
+        {"detail_name": "volume", "detail_value": "250ml"}
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Cotton Blend T-shirt",
+      "category": "4",
+      "details": [
+        {"detail_name": "size", "detail_value": "Medium"},
+        {"detail_name": "color", "detail_value": "Heather Gray"}
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Professional Screwdriver Set",
+      "category": "5",
+      "details": [
+        {"detail_name": "number of pieces", "detail_value": "20"},
+        {"detail_name": "material", "detail_value": "Chrome Vanadium Steel"}
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Portable Water Purifier",
+      "category": "13",
+      "details": [
+        {"detail_name": "filtration type", "detail_value": "Activated Carbon"},
+        {"detail_name": "purification capacity", "detail_value": "1000 liters"}
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Herbal Infusion Tea",
+      "category": "1",
+      "details": [
+        {"detail_name": "blend", "detail_value": "Chamomile and Lavender"},
+        {"detail_name": "pack size", "detail_value": "20 bags"}
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Recyclable Glass Water Bottle",
+      "category": "10",
+      "details": [
+        {"detail_name": "capacity", "detail_value": "750ml"},
+        {"detail_name": "material", "detail_value": "Borosilicate Glass"}
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Solar-Powered LED Flashlight",
+      "category": "10",
+      "details": [
+        {"detail_name": "power source", "detail_value": "Solar"},
+        {"detail_name": "brightness", "detail_value": "300 lumens"}
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Natural Insect Repellent",
+      "category": "12",
+      "details": [
+        {"detail_name": "active ingredients", "detail_value": "Citronella, Peppermint"},
+        {"detail_name": "application", "detail_value": "Spray"}
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Biodegradable Laundry Detergent",
+      "category": "9",
+      "details": [
+        {"detail_name": "pack size", "detail_value": "1.5kg"},
+        {"detail_name": "scent", "detail_value": "Lavender"}
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Compact Multi-Tool",
+      "category": "7",
+      "details": [
+        {"detail_name": "functions", "detail_value": "Knife, Pliers, Screwdriver"},
+        {"detail_name": "material", "detail_value": "Stainless Steel"}
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Portable Solar Charger",
+      "category": "11",
+      "details": [
+        {"detail_name": "compatible devices", "detail_value": "Smartphones, Tablets"},
+        {"detail_name": "charging time", "detail_value": "6 hours"}
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Organic Quinoa",
+      "category": "2",
+      "details": [
+        {"detail_name": "weight", "detail_value": "500g"},
+        {"detail_name": "origin", "detail_value": "Peru"}
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Stainless Steel Water Bottle",
+      "category": "10",
+      "details": [
+        {"detail_name": "capacity", "detail_value": "1 liter"},
+        {"detail_name": "insulation", "detail_value": "Double-walled"}
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Emergency First Aid Kit",
+      "category": "6",
+      "details": [
+        {"detail_name": "contents", "detail_value": "Bandages, Antiseptic, Scissors"},
+        {"detail_name": "compact size", "detail_value": "Yes"}
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Hand-Crank Emergency Radio",
+      "category": "11",
+      "details": [
+        {"detail_name": "power source", "detail_value": "Hand-Crank, Solar"},
+        {"detail_name": "frequency range", "detail_value": "AM/FM/Weather Band"}
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Whole Grain Bread",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "800g"},
+        {"detail_name": "type", "detail_value": "Whole Grain"}
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Natural Peanut Butter",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "500g"},
+        {"detail_name": "ingredients", "detail_value": "100% Peanuts"}
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Mixed Nuts",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "300g"},
+        {"detail_name": "variety", "detail_value": "Almonds, Walnuts, Cashews"}
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Organic Pasta",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "500g"},
+        {"detail_name": "type", "detail_value": "Whole Wheat"}
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Dried Lentils",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "1kg"},
+        {"detail_name": "variety", "detail_value": "Green Lentils"}
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Organic Olive Oil",
+      "category": "3",
+      "details": [
+        {"detail_name": "volume", "detail_value": "500ml"},
+        {"detail_name": "origin", "detail_value": "Greece"}
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Chickpeas",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "400g"},
+        {"detail_name": "type", "detail_value": "Canned"}
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Organic Honey",
+      "category": "3",
+      "details": [
+        {"detail_name": "volume", "detail_value": "250g"},
+        {"detail_name": "source", "detail_value": "Wildflower"}
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Brown Rice",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "1kg"},
+        {"detail_name": "type", "detail_value": "Long Grain"}
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Quinoa",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "500g"},
+        {"detail_name": "origin", "detail_value": "Bolivia"}
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Canned Beans Assortment",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "3 cans"},
+        {"detail_name": "variety", "detail_value": "Black, Kidney, Chickpeas"}
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Green Tea",
+      "category": "1",
+      "details": [
+        {"detail_name": "blend", "detail_value": "Sencha"},
+        {"detail_name": "pack size", "detail_value": "25 bags"}
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Tomatoes",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "1kg"},
+        {"detail_name": "package", "detail_value": "Airtight"}
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Dark Chocolate",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "100g"},
+        {"detail_name": "cocoa content", "detail_value": "70%"}
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Organic Green Lentils",
+      "category": "3",
+      "details": [
+        {"detail_name": "weight", "detail_value": "500g"},
+        {"detail_name": "origin", "detail_value": "Canada"}
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Digital Thermometer",
+      "category": "12",
+      "details": [
+        {"detail_name": "type", "detail_value": "Digital"},
+        {"detail_name": "accuracy", "detail_value": "+/- 0.1°C"}
+      ]
+    },
+    {
+      "id": "37",
+      "name": "N95 Respirator Masks",
+      "category": "12",
+      "details": [
+        {"detail_name": "pack size", "detail_value": "10 masks"},
+        {"detail_name": "filtration", "detail_value": "95% efficiency"}
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Thermometer Probe Covers",
+      "category": "12",
+      "details": [
+        {"detail_name": "pack size", "detail_value": "100 covers"},
+        {"detail_name": "material", "detail_value": "Plastic"}
+      ]
+    },
+    {
+      "id": "39",
+      "name": "First Aid Instruction Manual",
+      "category": "12",
+      "details": [
+        {"detail_name": "language", "detail_value": "English"},
+        {"detail_name": "illustrations", "detail_value": "Yes"}
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Sterile Cotton Balls",
+      "category": "12",
+      "details": [
+        {"detail_name": "pack size", "detail_value": "100 balls"},
+        {"detail_name": "sterile", "detail_value": "Yes"}
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Disposable Syringes",
+      "category": "12",
+      "details": [
+        {"detail_name": "pack size", "detail_value": "10 syringes"},
+        {"detail_name": "needle gauge", "detail_value": "22G"}
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Emergency Blanket",
+      "category": "12",
+      "details": [
+        {"detail_name": "material", "detail_value": "Mylar"},
+        {"detail_name": "size", "detail_value": "52\" x 84\""}
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Pain Relief Gel",
+      "category": "12",
+      "details": [
+        {"detail_name": "volume", "detail_value": "100ml"},
+        {"detail_name": "active ingredient", "detail_value": "Ibuprofen"}
+      ]
+    },
+    {
+      "id": "44",
+      "name": "Antibacterial Ointment",
+      "category": "12",
+      "details": [
+        {"detail_name": "volume", "detail_value": "15g"},
+        {"detail_name": "active ingredient", "detail_value": "Neomycin"}
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Multivitamin Tablets",
+      "category": "12",
+      "details": [
+        {"detail_name": "pack size", "detail_value": "30 tablets"},
+        {"detail_name": "vitamins", "detail_value": "A, B, C, D, E"}
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Allergy Medication",
+      "category": "12",
+      "details": [
+        {"detail_name": "pack size", "detail_value": "20 tablets"},
+        {"detail_name": "antihistamine", "detail_value": "Cetirizine"}
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Medical Tape",
+      "category": "12",
+      "details": [
+        {"detail_name": "width", "detail_value": "2.5cm"},
+        {"detail_name": "length", "detail_value": "5m"}
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Hydrogen Peroxide",
+      "category": "12",
+      "details": [
+        {"detail_name": "volume", "detail_value": "250ml"},
+        {"detail_name": "concentration", "detail_value": "3%"}
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Instant Cold Pack",
+      "category": "12",
+      "details": [
+        {"detail_name": "activation", "detail_value": "No refrigeration needed"},
+        {"detail_name": "size", "detail_value": "15cm x 20cm"}
+      ]
+    },
+    {
+      "id": "56",
+      "name": "Dried Lentils",
+      "category": "3",
+      "details": [
+        {"detail_name": "type", "detail_value": "Brown Lentils"},
+        {"detail_name": "quantity", "detail_value": "1 kg"}
+      ]
+    },
+    {
+      "id": "57",
+      "name": "Canned Tomatoes",
+      "category": "2",
+      "details": [
+        {"detail_name": "type", "detail_value": "Whole Peeled"},
+        {"detail_name": "quantity", "detail_value": "800g"}
+      ]
+    },
+    {
+      "id": "58",
+      "name": "Dried Pasta",
+      "category": "3",
+      "details": [
+        {"detail_name": "type", "detail_value": "Spaghetti"},
+        {"detail_name": "quantity", "detail_value": "500g"}
+      ]
+    },
+    {
+      "id": "59",
+      "name": "Canned Chickpeas",
+      "category": "2",
+      "details": [
+        {"detail_name": "type", "detail_value": "Garbanzo Beans"},
+        {"detail_name": "quantity", "detail_value": "400g"}
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Oats",
+      "category": "3",
+      "details": [
+        {"detail_name": "type", "detail_value": "Rolled Oats"},
+        {"detail_name": "quantity", "detail_value": "1 kg"}
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Dried Fruits",
+      "category": "3",
+      "details": [
+        {"detail_name": "variety", "detail_value": "Mixed"},
+        {"detail_name": "quantity", "detail_value": "300g"}
+      ]
+    },
+    {
+      "id": "62",
+      "name": "Honey",
+      "category": "3",
+      "details": [
+        {"detail_name": "type", "detail_value": "Pure Raw Honey"},
+        {"detail_name": "quantity", "detail_value": "500g"}
+      ]
+    },
+    {
+      "id": "63",
+      "name": "Canned Tuna",
+      "category": "2",
+      "details": [
+        {"detail_name": "type", "detail_value": "Chunk Light"},
+        {"detail_name": "quantity", "detail_value": "200g"}
+      ]
+    },
+    {
+      "id": "64",
+      "name": "Canned Soup",
+      "category": "2",
+      "details": [
+        {"detail_name": "flavor", "detail_value": "Chicken Noodle"},
+        {"detail_name": "quantity", "detail_value": "400g"}
+      ]
+    },
+    {
+      "id": "65",
+      "name": "Cooking Oil",
+      "category": "3",
+      "details": [
+        {"detail_name": "type", "detail_value": "Vegetable Oil"},
+        {"detail_name": "quantity", "detail_value": "1 liter"}
+      ]
+    },
+    {
+      "id": "66",
+      "name": "Canned Vegetables",
+      "category": "2",
+      "details": [
+        {"detail_name": "variety", "detail_value": "Mixed Vegetables"},
+        {"detail_name": "quantity", "detail_value": "400g"}
+      ]
+    },
+    {
+      "id": "67",
+      "name": "Instant Coffee",
+      "category": "1",
+      "details": [
+        {"detail_name": "type", "detail_value": "Ground Coffee"},
+        {"detail_name": "quantity", "detail_value": "250g"}
+      ]
+    },
+    {
+      "id": "68",
+      "name": "Tea Bags",
+      "category": "1",
+      "details": [
+        {"detail_name": "type", "detail_value": "Black Tea"},
+        {"detail_name": "quantity", "detail_value": "50 bags"}
+      ]
+    },
+    {
+      "id": "69",
+      "name": "Dried Soup Mix",
+      "category": "3",
+      "details": [
+        {"detail_name": "flavor", "detail_value": "Minestrone"},
+        {"detail_name": "quantity", "detail_value": "300g"}
+      ]
+    },
+    {
+      "id": "70",
+      "name": "Hand Sanitizer",
+      "category": "4",
+      "details": [
+        {"detail_name": "alcohol content", "detail_value": "70%"},
+        {"detail_name": "quantity", "detail_value": "100ml"}
+      ]
+    },
+    {
+      "id": "71",
+      "name": "Face Masks",
+      "category": "4",
+      "details": [
+        {"detail_name": "type", "detail_value": "Disposable"},
+        {"detail_name": "quantity", "detail_value": "10 masks"}
+      ]
+    },
+    {
+      "id": "72",
+      "name": "Winter Jacket",
+      "category": "5",
+      "details": [
+        {"detail_name": "type", "detail_value": "Insulated"},
+        {"detail_name": "size", "detail_value": "One Size"}
+      ]
+    },
+    {
+      "id": "73",
+      "name": "Beanie Hat",
+      "category": "5",
+      "details": [
+        {"detail_name": "color", "detail_value": "Black"},
+        {"detail_name": "size", "detail_value": "One Size"}
+      ]
+    },
+    {
+      "id": "74",
+      "name": "Touchscreen Gloves",
+      "category": "5",
+      "details": [
+        {"detail_name": "type", "detail_value": "Touchscreen"},
+        {"detail_name": "size", "detail_value": "One Size"}
+      ]
+    },
+    {
+      "id": "75",
+      "name": "Waterproof Hiking Boots",
+      "category": "5",
+      "details": [
+        {"detail_name": "type", "detail_value": "Waterproof"},
+        {"detail_name": "size", "detail_value": "One Size"}
+      ]
+    },
+    {
+      "id": "76",
+      "name": "Gray Sweater",
+      "category": "5",
+      "details": [
+        {"detail_name": "color", "detail_value": "Gray"},
+        {"detail_name": "size", "detail_value": "One Size"}
+      ]
+    },
+    {
+      "id": "77",
+      "name": "Convertible Hiking Pants",
+      "category": "5",
+      "details": [
+        {"detail_name": "type", "detail_value": "Convertible"},
+        {"detail_name": "size", "detail_value": "One Size"}
+      ]
+    },
+    {
+      "id": "78",
+      "name": "Merino Wool Socks",
+      "category": "5",
+      "details": [
+        {"detail_name": "material", "detail_value": "Merino Wool"},
+        {"detail_name": "size", "detail_value": "One Size"}
+      ]
+    },
+    {
+      "id": "79",
+      "name": "Clear Rain Poncho",
+      "category": "5",
+      "details": [
+        {"detail_name": "color", "detail_value": "Clear"},
+        {"detail_name": "size", "detail_value": "One Size"}
+      ]
+    },
+    {
+      "id": "80",
+      "name": "Fire Starter Kit",
+      "category": "14",
+      "details": [
+        {"detail_name": "pieces", "detail_value": "5"},
+        {"detail_name": "type", "detail_value": "Waterproof Matches"}
+      ]
+    },
+    {
+      "id": "81",
+      "name": "Water Purification Tablets",
+      "category": "6",
+      "details": [
+        {"detail_name": "number of tablets", "detail_value": "50"},
+        {"detail_name": "purification time", "detail_value": "30 minutes"}
+      ]
+    },
+    {
+      "id": "82",
+      "name": "Compact Shelter Tent",
+      "category": "7",
+      "details": [
+        {"detail_name": "capacity", "detail_value": "2 people"},
+        {"detail_name": "weight", "detail_value": "1.5 lbs"}
+      ]
+    }
+  ],
+  "categories": [
+    {"id": "1", "category_name": "Beverages"},
+    {"id": "2", "category_name": "Canned Goods"},
+    {"id": "3", "category_name": "Organic Products"},
+    {"id": "4", "category_name": "Personal Care"},
+    {"id": "5", "category_name": "Clothing"},
+    {"id": "6", "category_name": "First Aid"},
+    {"id": "7", "category_name": "Tools"},
+    {"id": "8", "category_name": "Eco-Friendly Products"},
+    {"id": "9", "category_name": "Cleaning Supplies"},
+    {"id": "10", "category_name": "Outdoor Gear"},
+    {"id": "11", "category_name": "Electronics"},
+    {"id": "12", "category_name": "Health and Wellness"},
+    {"id": "13", "category_name": "Home Essentials"},
+    {"id": "14", "category_name": "Survival Gear"}
+  ]  
+}
